@@ -15,8 +15,8 @@ I have used Python 🐍 in full-stack development for over 5 years accross sever
 * 4+ years of experience working with SQL and noSQL databases and Big Data cloud technologies.
 * 4+ years of experience working with in data science with machine learning solutions, including LLM engineering.
 * 2+ years of experience developing solutions in AWS.
-* ~5+ years of tasks including:
+* ~3-5+ years of tasks including:
   * Set up 🔧 my own development environment
-  * SysAdmin the Ubuntu and Windows (🐧🪟)
-  * Created infrastructure automations 🤖🏗️⚡
+  * SysAdmin Ubuntu and Windows (🐧🪟)
+  * CI/CD and IaC automation 🤖🏗️⚡
 </p>
