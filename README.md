@@ -1,10 +1,11 @@
-About me ✨
+##About me ✨
 
 👋 Hi, my name is David Andres Povis. 
 
-I am 🐍 Python Software Engineer with focus on data 📊 and system infrastructure 🏗️.
+🐍 Python Software Engineer with focus on data 📊 and system infrastructure 🏗️.
 
 👨‍🎓 I hold a M.S. in Information Technology and Management from Florida Atlantic University in Boca Raton, Florida.
+
 
 I have used Python 🐍 in full-stack development for over 5 years accross several domains 🌐.
 
