@@ -2,6 +2,14 @@ Hi there ✨
 
 👋 About me
 
-👨‍🎓 Hi, I am Data Engineer with focus in QA. I hold a M.S. in Information Technology and Management from Florida Atlantic University in Boca Raton, Florida.
+Hi, I am 🐍 Python Software Engineer with focus on data 📊 and system infrastructure 🏗️.
 
-👨‍💻 Data Engineer and QA engineer with robust experience in software quality control, DevOps, scalable data pipelines, ETL, real-time data processing, and cloud-based solutions. Expert in Python, SQL, and Big Data cloud technologies and data governance processes. Developed solutions with machine learning, web development, and automation. Professional experience with DevOps and Agile methodologies. Architected pipelines in cloud platforms AWS and Google Cloud Platform.
+👨‍🎓 I hold a M.S. in Information Technology and Management from Florida Atlantic University in Boca Raton, Florida.
+
+🌐 I have used Python in full-stack development for over 5 years accross several domains.
+
+💻 Experience:
+5+ years of experience working in data analytics.
+4+ years of experience working with SQL and noSQL databases and Big Data cloud technologies.
+4+ years of experience working with in data science with machine learning solutions, including LLM engineering.
+2+ years of experience developing solutions in AWS.
