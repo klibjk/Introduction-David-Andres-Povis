@@ -6,7 +6,7 @@
 
 👨‍🎓 I hold a M.S. in Information Technology and Management from Florida Atlantic University in Boca Raton, Florida.
 </p>
-
+<br>
 <p>
 I have used Python 🐍 in full-stack development for over 5 years accross several domains 🌐.
 
