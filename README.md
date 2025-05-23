@@ -1,12 +1,13 @@
 ## About me ✨
-
+<p>
 👋 Hi, my name is David Andres Povis. 
 
 🐍 Python Software Engineer with focus on data 📊 and system infrastructure 🏗️.
 
 👨‍🎓 I hold a M.S. in Information Technology and Management from Florida Atlantic University in Boca Raton, Florida.
+</p>
 
-
+<p>
 I have used Python 🐍 in full-stack development for over 5 years accross several domains 🌐.
 
 💻 Experience:
@@ -15,3 +16,4 @@ I have used Python 🐍 in full-stack development for over 5 years accross sever
 * 4+ years of experience working with in data science with machine learning solutions, including LLM engineering.
 * 2+ years of experience developing solutions in AWS.
 * ~5+ years including all the times I set up 🔧 my own development environment, admin'ed systems (🐧🪟) and created infrastructure automations 🤖🏗️⚡ accross the years.
+</p>
